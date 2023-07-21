@@ -1,4 +1,4 @@
-BEGIN {
+BEGIN{
 sa=0;ss=0;sd=0;c=0;a=0;s=0;d=0;
 }
 { 
