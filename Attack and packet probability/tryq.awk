@@ -5,7 +5,7 @@ sa=0;ss=0;sd=0;c=0;a=0;s=0;d=0;
  time = $1;
  from = $2;
  to = $3;
- qsb = $4;	#queue size bytes in monitor interval
+ qsb = $4;	#queue size bytes in monitor interval 
  qsp = $5;	#queue size pkts in monitor interval
  anp = $6; 	#arr no. pkts
  dnp = $7; 	#dep no. pkts
