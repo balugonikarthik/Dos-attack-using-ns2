@@ -30,4 +30,4 @@ END{
  p9=s9/ts;
  p14=s14/ts;
  printf("%f %f %f %f\n",t,p4,p9,p14);
-}
+} 
