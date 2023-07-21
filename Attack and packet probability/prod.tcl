@@ -7,7 +7,7 @@ $ns color 2 red
 set tracefile1 [open out.tr w]
 $ns trace-all $tracefile1
 
-#open the nam trace fileclear
+#open the nam trace file
 set namfile [open out.nam w]
 $ns namtrace-all $namfile
 
