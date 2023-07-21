@@ -1,4 +1,4 @@
-BEGIN {
+BEGIN{
 number_of_received=0;
 number_of_enqued=0;
 }
