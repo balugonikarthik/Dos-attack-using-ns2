@@ -23,5 +23,5 @@ number_of_attack++;
 printf("\n%f %f",parameter2,((number_of_normal)/(number_of_attack + number_of_normal)));
 }
 END {
-}
+} 
 
