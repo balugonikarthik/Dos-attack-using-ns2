@@ -11,7 +11,7 @@ do
 done
 
 i=49
-while [ $i -le 490 ]
+while [ $i -le 490 ] 
 do
         i=`echo "$i + 1" | bc`
         j=$(echo "scale=10; $i / 100" | bc)
