@@ -22,7 +22,6 @@ proc finish {} {
 	exec nam out.nam &
 	exit 0
 }
-
 set n0 [$ns node]
 set n1 [$ns node]
 set n2 [$ns node]
